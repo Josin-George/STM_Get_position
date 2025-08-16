@@ -1,0 +1,7 @@
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:30:9:BSP_I2C1_Send_IT	24	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:53:9:BSP_I2C1_Recv_IT	24	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:70:9:BSP_I2C1_RegisterRxCallback	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:78:9:BSP_I2C1_RegisterErrorCallback	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:86:9:BSP_I2C1_RegisterAbortCallback	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:95:6:BSP_EV_I2C1_IRQHanlder	8	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/Target/stm32_bus_ex.c:100:6:BSP_ER_I2C1_IRQHanlder	8	static

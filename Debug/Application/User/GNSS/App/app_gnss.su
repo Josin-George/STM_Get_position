@@ -1,0 +1,17 @@
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:141:6:MX_GNSS_Init	8	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:158:6:MX_GNSS_PreOSInit	4	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:165:6:MX_GNSS_PostOSInit	8	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:188:13:GNSSData_Mutex_Init	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:201:13:Teseo_Consumer_Task_Init	48	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:215:13:Background_Task_Init	48	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:228:13:Console_Parse_Task_Init	48	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:243:13:BackgroundTask	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:257:13:TeseoConsumerTask	40	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:342:13:ConsoleParseTask	56	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:387:13:ConsoleRead	24	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:416:13:AppCmdProcess	232	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:713:13:AppCfgMsgList	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:802:12:ConsoleReadable	4	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:814:12:GetSWVerCmdIsAllowed	24	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:840:5:GNSS_PRINT	16	static
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/GNSS/App/app_gnss.c:851:5:GNSS_PUTC	16	static

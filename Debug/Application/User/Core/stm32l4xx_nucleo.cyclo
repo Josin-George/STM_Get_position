@@ -1,0 +1,8 @@
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:81:9:BSP_GetVersion	1
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:95:9:BSP_COM_Init	3
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:133:9:BSP_COM_DeInit	3
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:170:26:MX_USART2_UART_Init	2
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:274:9:BSP_COM_SelectLogPort	2
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:320:5:__io_putchar	1
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:333:13:USART2_MspInit	1
+D:/STM32CubeIDE/x-cube-gnss1/Projects/NUCLEO-L476RG/Applications/GetPos/Core/Src/stm32l4xx_nucleo.c:374:13:USART2_MspDeInit	1
